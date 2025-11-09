@@ -96,28 +96,14 @@ The model chosen for this task is **YOLOv8n (nano)** from Ultralytics.
 
 ---
 
-### **8. Folder Structure (Planned)**
-```
-helmet-detection-project/
-├── data/
-│   ├── train/
-│   ├── valid/
-│   └── test/
-├── runs/
-├── detect_helmet.py
-├── yolov8_train.py
-├── utils_matching.py
-├── best.pt  (to be saved after training)
-└── helmet_data.yaml
-```
 
 ---
 
 ### **9. Expected Workflow**
 1. **Data Collection & Annotation** – Week 1  
 2. **Model Training & Evaluation** – Week 2  
-3. **Fine-Tuning & Export** – Week 3  
-4. **Deployment & Testing** – Week 4  
+3. **Adding FRONT END** – Week 3  
+4. **PRESENTATION** – Week 4  
 
 ---
 
