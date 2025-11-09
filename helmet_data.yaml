@@ -1,0 +1,8 @@
+path: /content/datasets/data
+train: train/images
+val: valid/images
+test: test/images
+names:
+- helmet
+- no-helmet
+nc: 2
